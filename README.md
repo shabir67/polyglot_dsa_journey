@@ -1,1 +1,1 @@
-# polygot dsa journey
+# the polygot DSA journey
